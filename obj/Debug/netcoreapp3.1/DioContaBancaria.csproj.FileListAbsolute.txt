@@ -1,0 +1,14 @@
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\bin\Debug\netcoreapp3.1\DioContaBancaria.exe
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\bin\Debug\netcoreapp3.1\DioContaBancaria.deps.json
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\bin\Debug\netcoreapp3.1\DioContaBancaria.runtimeconfig.json
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\bin\Debug\netcoreapp3.1\DioContaBancaria.runtimeconfig.dev.json
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\bin\Debug\netcoreapp3.1\DioContaBancaria.dll
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\bin\Debug\netcoreapp3.1\DioContaBancaria.pdb
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\obj\Debug\netcoreapp3.1\DioContaBancaria.csproj.AssemblyReference.cache
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\obj\Debug\netcoreapp3.1\DioContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\obj\Debug\netcoreapp3.1\DioContaBancaria.AssemblyInfoInputs.cache
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\obj\Debug\netcoreapp3.1\DioContaBancaria.AssemblyInfo.cs
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\obj\Debug\netcoreapp3.1\DioContaBancaria.csproj.CoreCompileInputs.cache
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\obj\Debug\netcoreapp3.1\DioContaBancaria.dll
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\obj\Debug\netcoreapp3.1\DioContaBancaria.pdb
+D:\csharp\orientacao-a-objetos\DioContaBancaria\DioContaBancaria\obj\Debug\netcoreapp3.1\DioContaBancaria.genruntimeconfig.cache
